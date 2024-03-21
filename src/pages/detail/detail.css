@@ -1,0 +1,79 @@
+.card-img{background: none !important;}
+.icon-show{
+    width: 45px;
+    height: 45px;
+    margin-top: 25px;
+}
+.labelArea{
+        line-height: 20px;
+        margin-top: 18px !important;
+        margin-left: -10px;
+}
+.labelArea .label{
+color: rgb(156, 156, 155);
+}
+.birth{
+    font-size: 14px;
+}
+.birth .icon-show{
+    position: relative;
+    bottom: 10px;
+}
+.pet-title-box{
+    font-size: 18px; 
+    text-align: left;
+    margin-top: 55px;
+    color:#9c9c9b;
+}
+.pet-title-box .pet-title{
+    font-size: 36px;
+    color: #2a2825
+}
+.pet-share{
+    margin-top: 15px !important;
+}
+.pet-breed{
+    margin-Right: 15px;
+    color: #9c9c9b;
+}
+.baseLayout{
+    width: 100%;
+}
+.detail-box{
+    padding: 0 !important;
+}
+.detail-box .card{
+    border-radius: 0px !important;
+}
+.subTitleIcon{
+    width: 20px;
+    height: 20px; 
+    margin-right: 5px
+}
+.top10{margin-top: 10px !important;}
+.share-btn {
+    margin-right: 25px;
+    border: solid 1px #c6c7c8 !important;
+}
+.attribute-btn{
+    border-radius: 50% !important; 
+    border: solid 1px #c6c7c8 !important;
+}
+.attribute-icon-color{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.attribute-icon{
+    border: solid 1px #d3d1d1;
+    border-radius: 50%;
+    padding-top: 7px;
+}
+.set-attribute-wapper{
+    line-Height: 18px;
+    margin-Top: 5px !important;
+    margin-right: 10px;
+}
+.attribute-val{font-size: 16px;}
+.attribute-text{color: rgb(156, 156, 155); font-size: 14px;}
+/* .attribute-btn{} */
+.pet-location{padding-bottom: 50px;}

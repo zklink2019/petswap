@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5313d1e8.css",
+    "main.js": "/static/js/main.d4897eb6.js",
+    "static/js/787.7a31e1b6.chunk.js": "/static/js/787.7a31e1b6.chunk.js",
+    "static/media/compete.png": "/static/media/compete.868bfdb43262ab361a40.png",
+    "static/media/logo.png": "/static/media/logo.d5825bc839b3f764b409.png",
+    "static/media/logo_public.png": "/static/media/logo_public.d5825bc839b3f764b409.png",
+    "static/media/512pet.png": "/static/media/512pet.22bbd267e3d0a5f6fa1e.png",
+    "static/media/home-bg.png": "/static/media/home-bg.a173355c082a8e097056.png",
+    "static/media/dragon.png": "/static/media/dragon.6577beb903da3036db1f.png",
+    "static/media/start003.jpg": "/static/media/start003.1ae746ec0cda500e3cc2.jpg",
+    "static/media/start001.jpg": "/static/media/start001.4dfac2f32cdabadde4b6.jpg",
+    "static/media/start004.jpg": "/static/media/start004.b57f07365b5f5a24b1c9.jpg",
+    "static/media/cz002.jpg": "/static/media/cz002.80cae0b4b90da32ce724.jpg",
+    "static/media/cz001.jpg": "/static/media/cz001.a2d3ce9ef8e2ce57a4b3.jpg",
+    "static/media/start005.jpg": "/static/media/start005.b273957c83b8ab31e7d6.jpg",
+    "static/media/telegram.png": "/static/media/telegram.328f55ddafb4b5e14d33.png",
+    "static/media/mem001.jpg": "/static/media/mem001.8934aea8be14eecd2ed0.jpg",
+    "static/media/fish.svg": "/static/media/fish.521cd2b7a408b964bc5bbf7ed19ce4e7.svg",
+    "static/media/honey.svg": "/static/media/honey.8adf0e9ace5726ebcc9937f106222bb6.svg",
+    "static/media/rest.svg": "/static/media/rest.c8123766d803f8c601ffdc95b0352290.svg",
+    "static/media/cheese.svg": "/static/media/cheese.f5cbc2bdac088aa7025d58651c7e2c07.svg",
+    "static/media/rili.svg": "/static/media/rili.8976d9d981d40e57d5f3494273755e21.svg",
+    "static/media/ic_exp.svg": "/static/media/ic_exp.e4c0fc4d325c41ee46c30999f537f931.svg",
+    "static/media/carrot.svg": "/static/media/carrot.5dcc17b194cd5d761c5b9c7a6a96778e.svg",
+    "static/media/bone.svg": "/static/media/bone.ee64486500d38233ca4d409200af5d23.svg",
+    "static/media/meat.svg": "/static/media/meat.bf00493a540c9f180a3f3a5e8c09e6c1.svg",
+    "static/media/jiyin.svg": "/static/media/jiyin.ea3b98037f7a549bce9f517d0858aabb.svg",
+    "index.html": "/index.html",
+    "main.5313d1e8.css.map": "/static/css/main.5313d1e8.css.map",
+    "main.d4897eb6.js.map": "/static/js/main.d4897eb6.js.map",
+    "787.7a31e1b6.chunk.js.map": "/static/js/787.7a31e1b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5313d1e8.css",
+    "static/js/main.d4897eb6.js"
+  ]
+}

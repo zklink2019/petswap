@@ -1,0 +1,14 @@
+.mycontent{
+    margin-bottom: 2.9rem;
+    line-height: 1.45;
+    /* color: rgb(42, 40, 37); */
+    font-size: 18px;   
+    text-align: left;     
+    margin-top: 50px;
+
+}
+.mycontent p{margin-bottom: 20px;}
+.mycontent .border{
+    border: 1px solid #45484c !important;
+    padding: 20px 10px;
+}

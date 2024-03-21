@@ -1,0 +1,19 @@
+.mycontent{
+    margin-bottom: 2.9rem;
+    line-height: 1.45;
+    /* color: rgb(42, 40, 37); */
+    font-size: 18px;   
+    text-align: left;     
+    margin-top: 50px;
+}
+.pic_set img{
+    width: 80%;
+    margin-bottom: 45px;
+}
+
+.accordion-item{
+    background: none;
+    --tw-text-opacity: 1;
+    color: rgba(156, 163, 175, var(--tw-text-opacity));
+    border: 1px solid #45484c !important;
+}

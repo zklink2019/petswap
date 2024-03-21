@@ -1,0 +1,92 @@
+
+.justify {
+    display: flex;
+    justify-content: space-between;
+}
+.btn-box{
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+}
+.btn-box .detail_icon{margin-left: 30px; background: none;color: #23272d; border: solid #23272d 1px;}
+.btn-box .detail_icon:hover{background: #23272d;
+    color: #fff;
+    border: solid #23272d 1px;}
+#petTemplate .card{
+    border-color: #f3f3f3;
+}   
+.card-img,
+.card-img-top {
+    /* background: #99a0e996; */
+    background: #fff !important;
+}
+.subTitleIcon {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px
+}
+.pet-main{
+    font-size: 20px;
+    border-bottom: solid 1px #eee;
+    padding-bottom: 10px;
+}
+.banner-bg{
+    width: 100%;
+    height: 100%;
+    background: url(@/assets/images/home-bg.png) no-repeat ;
+    background-size: cover;
+}
+.banner-img{
+    position: relative;
+    top: 20%;
+}
+.banner-desc{
+    /* display: flex;
+    text-align: center; */
+    color: #fff;
+    padding: 150px 20px;
+    text-align: left;
+}
+.banner-desc{
+    width: 50%;
+}
+.banner-desc h2{font-size: 48px;}
+.banner-desc .info{font-size: 14px;width: 50%; padding-bottom: 20px;}
+.color-ff{background: #fff;}
+.pading-10-20{
+    padding: 10px 20px;
+}
+.pading-20-40{padding:20px 40px;}
+.pading-10-15{padding:10px 15px;}
+.bg-F3{background: #f3f3f3;}
+.color-18{color: #181818;}
+.color-4B{color: #4B4B4B;}
+.color-77{color: #777777;}
+.color-24{color: #242424;}
+.color-9E{color: #9e9e9e;}
+.color-a6{color: #a6a6a6;}
+
+.height-60{height: 60px; }
+.width-60{width: 60px;}
+.width-80{width: 80px;}
+
+.bg-c3{background: #C3F1FF;}
+
+.margin-right-15{ margin-right: 15px;}
+.padding-tb-60{padding-top: 60px; padding-bottom: 60px;}
+.margin-top-30{margin-top: 30px;}
+
+.font-28{font-size: 28px;}
+.font-14{font-size: 14px;}
+.font-12{font-size: 12px;}
+.font-weight{font-weight: 600;}
+
+.text-left{text-align: left;}
+.text-right{text-align: right;}
+.text-center{text-align: center;}
+
+.display-table{display: table-cell;}
+.width-100-percent{width: 100%;}
+.img-size-40{width: 40px; height: 40px;}
+.border-radius-10{border-radius: 10px;}
+
